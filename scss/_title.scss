@@ -1,0 +1,12 @@
+.title {
+    @include title-size;
+}
+
+.logo img {
+    @include logo-size;
+}
+
+nav {
+    @include navigation;
+   
+}
